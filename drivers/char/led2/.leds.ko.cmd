@@ -1,0 +1,1 @@
+cmd_/home/linux/code/workspace/drivers/char/led2/leds.ko := /home/linux/toolchain/itop_kernel/bin/arm-none-linux-gnueabi-ld -EL -r  -T /home/linux/code/iTop_kernel/scripts/module-common.lds --build-id  -o /home/linux/code/workspace/drivers/char/led2/leds.ko /home/linux/code/workspace/drivers/char/led2/leds.o /home/linux/code/workspace/drivers/char/led2/leds.mod.o
